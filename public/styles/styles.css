@@ -29,8 +29,9 @@ h2 {
   width: 100%;
   margin-top: 200px;
   background: url("./imgs/MARVEL.jpg")no-repeat fixed 100%;
+  /*-webkit-backgrount-top: 100px;
   -webkit-background-size: cover;
-  -moz-background-size: cover;
+  -moz-background-size: cover;*/
   background-size: cover;
 }
 
